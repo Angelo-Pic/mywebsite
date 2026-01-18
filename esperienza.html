@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./assets/logo/favicon-white.ico" type="image/x-icon">
+    <title>Esperienza</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+        <h1 data-i18n="exp_title">Esperienza</h1>
+        <select id="language-switcher" class="lang-switcher">
+            <option value="it">IT</option>
+            <option value="en">EN</option>
+            <option value="de">DE</option>
+        </select>
+    </nav>
+</header>
+
+<main>
+    <p data-i18n="exp_description">Questa é una panoramica di tutte quelle che sono state le mie esperienze lavorative documentate.</p>
+    <br/>
+
+    <!-- Bottone PDF -->
+    <button data-i18n="exp_dwn_pdf" id="print-btn">Scarica PDF ⇩</button>
+    
+    <!-- Contenitore esperienze -->
+    <div id="experience-list"></div>
+    <br/>
+    <h3 data-i18n="exp_ref_title">Qui puoi scaricare le mie referenze lavorative disponibili</h3>
+    <a href="assets/referenze-pdf/Piccoli-Arbeitszeugnis-cap.pdf" download class="download-btn">
+        Nero's Pizza
+    </a>
+    <br/>
+    <a href="assets/referenze-pdf/Reference Letter Golden Hill.pdf" download class="download-btn">
+        Golden Hill srl
+    </a>
+    <br/>
+    <div class="return-button">
+        <button><a data-i18n="button_return" href="index.html">Torna alla Home</a></button>
+    </div>
+</main>
+
+<!-- FOOTER -->
+    <footer class="footer">
+        <p>&copy; 2026 - Angelo Piccoli</p>
+    </footer>
+
+    <script src="js/esperienze.js"></script>
+    <script src="js/traduzione.js"></script>
+    <script src="js/i18n.js"></script>
+</body>
+</html>
