@@ -48,7 +48,9 @@ const translations = {
 
     portfolio_title: "Portfolio",
     portfolio_subtitle: "Alcuni tra i miei lavori",
-    portfolio_description: "",
+    portfolio_description: `Questa é la presentazione di alcuni dei miei lavori svolti durante il corso sia della mia esperienza lavorativa che privata, da autodidatta.
+                          Sono diplomato in Design, perció il mio interesse principale é rivolto alle diverse forme artistiche, ma sviluppo sempre le mie passioni mescolandole anche in altri campi,
+                          che molto spesso sono di tutt'altro genere, ma che alla fine hanno sempre qualcosa in comune con l'arte e l'estetica.`,
     portfolio_3D_title: "Grafica 3D",
     portfolio_3D_text: `Questi sono alcuni render creati con il programma Blender. Ho imparato ad usare questo programma da autodidatta, a casa, tramite tutorials e corsi online durante il 
                         periodo della pandemia dovuta al Covid-19. Nel tempo ho perfezionato la tecnica, il mio modo di vedere le cose e la mia passione per il reaslismo mi aiutano a scoprire 
