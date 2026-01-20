@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
         a: "31.12.2024",
         descrizione: {
                 it: "Amministratore delegato, contabilitá e chiusure, pizzaiolo, servizio in sala, accoglienza clienti",
-                en: "CEO, Accounting and Closing, Pizza Chef, Dining Room Service, Customer Service",
+                en: "CEO, Accounting and Daily closing procedures, Pizza Chef, Waiting Service, Customer Service",
                 de: "Geschäftsführer, Buchhaltung und Monatsabschluss, Pizzabäcker, Service im Speisesaal, Kundenservice"
         },
         azienda: "Pizza e Birri GmbH",
