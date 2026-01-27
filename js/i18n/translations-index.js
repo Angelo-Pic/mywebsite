@@ -4,6 +4,7 @@ window.pageTranslations = {
         nav_home: "Home",
         nav_esperienza: "Esperienza",
         nav_portfolio: "Portfolio",
+        nav_intrattenimento: "Intrattenimento",
         nav_contattami: "Contattami",
 
         hero_descriptions: "Commercialista · Programmatore Junior · Designer · Gastronomo",
@@ -46,6 +47,7 @@ window.pageTranslations = {
         nav_home: "Home",
         nav_esperienza: "Experiences",
         nav_portfolio: "Portfolio",
+        nav_intrattenimento: "Entertainment",
         nav_contattami: "Contact",
 
         hero_descriptions: "Accountant · Junior Developer · Designer · Gastronomer",
@@ -85,6 +87,7 @@ window.pageTranslations = {
         nav_home: "Home",
         nav_esperienza: "Erfahrungen",
         nav_portfolio: "Portfolio",
+        nav_intrattenimento: "Unterhaltung",
         nav_contattami: "Kontakte",
 
         hero_descriptions: "Buchhalter · Junior Entwickler · Designer · Gastronomer",

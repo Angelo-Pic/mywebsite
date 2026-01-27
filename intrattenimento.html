@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./assets/logo/favicon-white.ico" type="image/x-icon">
+    <title>Intrattenimento</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+        <h1 data-i18n="intr_title">Intrattenimento</h1>
+        <select id="language-switcher" class="lang-switcher">
+            <option value="it">IT</option>
+            <option value="en">EN</option>
+            <option value="de">DE</option>
+        </select>
+    </nav>
+</header>
+
+<main>
+    <p data-i18n="intr_description">Se avete ancora del tempo, vorrei intrattenervi con qualcosa di divertente. Un quiz che dura non piú di due minuti, e qualche altro contenuto sui miei hobby 
+        e passioni che potrebbero interessare al pubblico. Grazie in anticipo per l'attenzione e buon divertimento!
+    </p>
+
+    <h1 class="title-entertainment" data-i18n="intr_cards_title">Intrattenimento finanziario</h1>
+
+    <div class="cards">
+
+        <div class="card">
+            <div class="card-inner">
+                <div class="card-front">
+                    <h2 data-i18n="intr_card_1_title">Domanda 1</h2>
+                    <p data-i18n="intr_card_1_text">
+                        Il fatturato di un’azienda cala del 25% in un anno.
+                        Di quanto deve aumentare l’anno successivo per tornare al livello iniziale?
+                    </p>
+                    <button data-i18n="intr_button_risp" class="flip-btn">Risposta</button>
+                </div>
+                <div class="card-back">
+                    <h2 data-i18n="intr_card_1_title_back">Risposta 1</h2>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_a">
+                        Deve aumentare del 33,3%.
+                    </p>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_b">
+                        Spiegazione breve:
+                    </p>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_c">
+                        •	100 → 75 (−25%)
+                    </p>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_d">
+                        •	Per tornare a 100:
+                    </p>
+                    <p data-i18n="intr_card_1_text_back_e">
+                        25/75 = 33,3%
+                    </p>
+                    </br>
+                    <button data-i18n="intr_button_dom" class="flip-btn">Domanda</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-inner">
+                <div class="card-front">
+                    <h2 data-i18n="intr_card_1_title_x">Domanda 2</h2>
+                    <p data-i18n="intr_card_1_text_y">
+                        Il fatturato di un’azienda cala del 25% in un anno.
+                        Di quanto deve aumentare l’anno successivo per tornare al livello iniziale?
+                    </p>
+                    <button data-i18n="intr_button_risp" class="flip-btn">Risposta</button>
+                </div>
+                <div class="card-back">
+                    <h2 data-i18n="intr_card_1_title_back_b">Risposta 2</h2>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_f">
+                        120 → −20 % = 96,- chf
+                    </p>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_g">
+                        96 → −10 % = 86,40 chf
+                    </p>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_h">
+                        Sconto totale = 33,60 chf = 28 %
+                    </p>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_i">
+                        ❌ Non è il 30 %
+                    </p>
+                    </br>
+                    <button data-i18n="intr_button_dom" class="flip-btn">Domanda</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-inner">
+                <div class="card-front">
+                    <h2 data-i18n="intr_card_1_title_k">Domanda 3</h2>
+                    <p data-i18n="intr_card_1_text_z">
+                        Un prezzo aumenta del 25 %. Di quanto deve diminuire per tornare al prezzo iniziale?
+                    </p>
+                    <button data-i18n="intr_button_risp" class="flip-btn">Risposta</button>
+                </div>
+                <div class="card-back">
+                    <h2 data-i18n="intr_card_1_title_back_c">Risposta 3</h2>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_l">
+                        100 → 125
+                    </p>
+                    </br>
+                    <p data-i18n="intr_card_1_text_back_m">
+                        Per tornare a 100: 25 / 125 = 20 %
+                    </p>
+                    </br>
+                    <button data-i18n="intr_button_dom" class="flip-btn">Domanda</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <h1 class="title-entertainment" data-i18n="intr_music_title">Intrattenimento musicale</h1>
+
+    <section class="media-section" id="mediaSection">
+        <div class="media-container">
+
+            <div class="media-image">
+                <img src="./assets/musica/live-music.jpg" alt="Doors Tribute Band">
+                <p><i>VIII Talento live - The Sunset Strip (Doors tribute band)</i></p>
+            </div>
+
+            <div class="media-text">
+                <p data-i18n="intr_music_text">
+                    Questo é il mio hobby e la mia passione sin da quando avevo 13 anni. Praticamente una vita passata a studiare musica, fare pratica sullo strumento, provare e riprovare, finché 
+                    non riuscivo ad ottenere un suono decente. Decine e decine di brani buttati giú, inediti, ma soprattutto un mondo di divertimento a suonara cover con le tribute bads in giro 
+                    per tutta la Puglia, macinando chilometri e facendo orari assurdi. Posso solo dire che ne é valsa la pena e non cambierei una sola virgola di quello che é successo. La musica 
+                    é vita, é la colonna sonora delle nostre giornate, dei nostri momenti sia felici che tristi, ci tinene compagnia quando siamo soli, quando ci annoiamo, quando facciamo sport.
+                    Insomma... la musica é vita!
+                </p>
+            </div>
+
+            <div class="media-image">
+                <img src="./assets/musica/the barbers.jpg" alt="The Barbers">
+                <p data-i18n="intr_music_descr"><i>The Barbers live - Musica Inedita</i></p>
+            </div>
+        </div>
+    </section>
+
+    <div class="return-button">
+        <button><a data-i18n="button_return" href="index.html">Torna alla Home</a></button>
+    </div>
+   
+</main>
+
+<!-- FOOTER -->
+    <footer class="footer">
+        <p>&copy; 2026 - Angelo Piccoli</p>
+    </footer>
+
+    <script src="js/i18n/i18n-core.js"></script>
+    <script src="js/i18n/translations-intrattenimento.js"></script>
+    <script src="js/pages/intrattenimento.js"></script>
+    <script src="js/i18n/i18n-switcher.js"></script>
+</body>
+</html>
