@@ -24,6 +24,15 @@ window.pageTranslations = {
         index_letter_4: `Ho studiato UX Design, consapevole che il mondo digitale stesse ormai muovendosi in quella direzione. Siti web e software si stavano trasformando sempre più in applicazioni, pensate principalmente per l’utilizzo su smartphone. In seguito mi sono concentrato sulla grafica 3D e sul game design, un ambito che mi ha sempre affascinato. Ho fondato una società insieme a un socio, la SkinSoftware GmbH, nella quale mi occupavo di design e ho iniziato ad avvicinarmi anche al mondo della contabilità. Parallelamente ho acquisito solide competenze di programmazione, come dimostra questo sito, interamente sviluppato da me tramite codice.`,
         index_letter_5: `In seguito si è presentata un’occasione speciale: ho avuto la possibilità di aprire un mio locale gastronomico, con la partecipazione e il supporto societario di mia moglie, la Pizza e Birri GmbH. Avendo conseguito la qualifica e il certificato di Gestore Gastronomico (necessario nel Cantone Argovia per l’apertura di un’attività nel settore), mi è stata offerta questa opportunità. Non sempre, però, le cose vanno come previsto: non tutti gli accordi sono chiari sin dall’inizio e non tutte le attività possono nascere senza un solido supporto economico alle spalle. Anche da questa esperienza ho tratto importanti insegnamenti, in particolare in ambito di accordi e dinamiche commerciali. Forti di circa vent’anni di esperienza nel settore gastronomico, ci siamo comunque lanciati in questa nuova avventura, che ci ha regalato ulteriore esperienza e consapevolezza. È stato proprio grazie a questo percorso che ho scoperto una mia predisposizione per la contabilità, elemento che mi ha spinto a intraprendere un nuovo cammino di studi in economia e finanza presso l’AKAD, una delle migliori scuole di Zurigo.`,
         index_letter_6: `Ed eccomi qui: non demordo. Posso e voglio continuare a imparare ancora moltissime cose e sono curioso di scoprire cosa il futuro abbia in serbo per me. Dove mi porterà questa volta il mio percorso? La storia continua.`,
+
+        index_diplomi: `Qui puoi scaricare i miei diplomi e documenti di formazione`,
+        index_diplomi_1: `Diploma`,
+        index_diplomi_2: `Licenza Gastronomica`,
+        index_diplomi_3: `Corso di Tedesco`,
+        index_diplomi_4: `Corso UX Design`,
+        index_diplomi_5: `Corso Unity`,
+        index_diplomi_6: `Certificato Trinity`,
+
     },
     en: {
         nav_title: "Welcome in my website",
@@ -50,6 +59,15 @@ window.pageTranslations = {
         index_letter_4: `I studied UX design, aware that the digital world was clearly moving in that direction. Websites and software were increasingly turning into applications, primarily designed for smartphone use. I later focused on 3D graphics and game design, a field that has always fascinated me. Together with a business partner, I founded SkinSoftware GmbH, where I was responsible for design and began to familiarize myself with accounting as well. At the same time, I acquired solid programming skills, as can be seen from this website, which was entirely developed by me through code.`,
         index_letter_5: `Later on, a special opportunity arose: I was able to open my own gastronomic business, with the participation and corporate support of my wife, Pizza e Birri GmbH. Having also completed the required training and obtained the Gastronomic Manager certification (mandatory in the Canton of Aargau to open a gastronomic business), I was offered this opportunity. However, not everything always goes according to plan: not all agreements are clear from the outset, and not all businesses can be launched without substantial financial backing. From this experience, I learned many valuable lessons, particularly regarding commercial agreements and business dynamics. With approximately twenty years of experience in the gastronomic sector, we embraced this new adventure, which provided us with further insight and growth. It was precisely through this journey that I discovered my aptitude for accounting, which led me to pursue a new path by studying economics and finance at AKAD, one of Zurich’s leading educational institutions.`,
         index_letter_6: `And here I am: I do not give up. I can and want to continue learning many more things, and I am eager to see what the future still has to offer. Where will my path lead me this time? The story continues.`,
+
+        index_diplomi: `Here you can download my diplomas and training certificates`,
+        index_diplomi_1: `High School Diploma`,
+        index_diplomi_2: `Gastronomy License`,
+        index_diplomi_3: `German Course`,
+        index_diplomi_4: `UX Design Course`,
+        index_diplomi_5: `Unity Course`,
+        index_diplomi_6: `Trinity Certification`,
+
     },
     de: {
         nav_title: "Willkommen in meinem Website",
@@ -76,5 +94,13 @@ window.pageTranslations = {
         index_letter_4: `Ich habe UX Design studiert, da sich die digitale Welt eindeutig in diese Richtung entwickelte. Webseiten und Programme wurden zunehmend zu Anwendungen, die hauptsächlich für die Nutzung auf Smartphones konzipiert waren. Danach habe ich mich auf 3D-Grafik und Game Design konzentriert – ein Bereich, der mich schon immer fasziniert hat. Gemeinsam mit einem Geschäftspartner gründete ich die SkinSoftware GmbH, in der ich für das Design verantwortlich war und begann, mich auch mit Buchhaltung auseinanderzusetzen. Parallel dazu erwarb ich fundierte Programmierkenntnisse, wie auch diese Website zeigt, die vollständig von mir selbst programmiert wurde.`,
         index_letter_5: `Später ergab sich eine besondere Gelegenheit: Ich konnte ein eigenes gastronomisches Unternehmen eröffnen, mit der Beteiligung und gesellschaftlichen Unterstützung meiner Frau, die Pizza e Birri GmbH. Da ich zudem die entsprechende Ausbildung absolviert und das Zertifikat als Gastronomischer Geschäftsführer erworben hatte (welches im Kanton Aargau für die Eröffnung eines gastronomischen Betriebs erforderlich ist), wurde mir diese Möglichkeit geboten. Allerdings verlaufen nicht immer alle Dinge reibungslos: Nicht alle Vereinbarungen sind von Beginn an klar, und nicht jedes Unternehmen kann ohne eine solide finanzielle Grundlage entstehen. Auch aus dieser Erfahrung habe ich viele wichtige Erkenntnisse gewonnen, insbesondere im Bereich von Geschäftsvereinbarungen und wirtschaftlichen Zusammenhängen. Mit rund zwanzig Jahren Erfahrung in der Gastronomie haben wir uns dennoch auf dieses neue Abenteuer eingelassen, das uns wertvolle zusätzliche Erfahrungen gebracht hat. Gerade durch diesen Weg habe ich meine Affinität zur Buchhaltung entdeckt, was mich dazu veranlasst hat, einen weiteren Bildungsweg einzuschlagen und Wirtschaft und Finanzen an der AKAD zu studieren – einer der renommiertesten Bildungseinrichtungen in Zürich.`,
         index_letter_6: `Und hier stehe ich heute: Ich gebe nicht auf. Ich kann und will weiterhin noch sehr viel lernen und bin gespannt darauf, was mir die Zukunft noch bieten wird. Wohin wird mich mein Weg dieses Mal führen? Die Geschichte geht weiter.`,
+
+        index_diplomi: `Hier können Sie meine Diplome und Ausbildungsnachweise herunterladen`,
+        index_diplomi_1: `Diplom`,
+        index_diplomi_2: `Wirtepatent`,
+        index_diplomi_3: `Deutschkurs`,
+        index_diplomi_4: `UX-Design-Kurs`,
+        index_diplomi_5: `Unity-Kurs`,
+        index_diplomi_6: `Trinity-Zertifikat`,
     }
 }

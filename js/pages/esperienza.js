@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
               de: "Spedition Mitarbeiter"
       },
       da: "19.05.2025",
-      a: "-",
+      a: "...",
       descrizione: {
               it: "Smistamento pane per spedizioni, logistica, autista, gestione magazzino, ordine e gestione prodotti congelati",
               en: "Bread sorting for shipments, logistics, driver, warehouse management, ordering and frozen product management",
@@ -52,8 +52,8 @@ document.addEventListener("DOMContentLoaded", () => {
 },
 {
         titolo: {
-                it: "Designer, Socio",
-                en: "Designer, Associate",
+                it: "Designer, co-fondatore",
+                en: "Designer, co-founder",
                 de: "Designer, Mitglied"
         },
         da: "22.03.2021",
@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", () => {
       box.classList.add("experience-box");
 
       box.innerHTML = `
-        <h3>${exp.titolo[lang]}</h3>
+        <h2>${exp.titolo[lang]}</h2>
         <br/>
         <span>${exp.da}</span>
         <span> - </span>
