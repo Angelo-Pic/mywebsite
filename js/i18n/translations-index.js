@@ -77,7 +77,7 @@ window.pageTranslations = {
         nav_intrattenimento: "Unterhaltung",
         nav_contattami: "Kontakte",
 
-        hero_descriptions: "Buchhalter · Junior Entwickler · Designer · Gastronomer",
+        hero_descriptions: "Buchhalter · Junior Entwickler · Designer · Gastronom",
 
         personal_nome: "Vorname: Angelo",
         personal_cognome: "Familien Name: Piccoli",
