@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
               en: "Internal sales department clerk",
               de: "Sachbearbeiter Verkauf Innen Dienst"
       },
-      da: "01.10.2026",
+      da: "1.10.2026",
       a: "...",
       descrizione: {
               it: "Preparazione bolle di spedizione per le consegne, creazione fatture su ordini effettuati, ricezione nuovi ordini, comunicazione con i clienti e tutti i reparti interni all'azienda",
