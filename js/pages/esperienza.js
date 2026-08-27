@@ -4,12 +4,28 @@ document.addEventListener("DOMContentLoaded", () => {
   const experiences = [
     {
       titolo: {
+              it: "Impiegato vendite reparto interno",
+              en: "Internal sales department clerk",
+              de: "Sachbearbeiter Verkauf Innen Dienst"
+      },
+      da: "01.10.2026",
+      a: "...",
+      descrizione: {
+              it: "Preparazione bolle di spedizione per le consegne, creazione fatture su ordini effettuati, ricezione nuovi ordini, comunicazione con i clienti e tutti i reparti interni all'azienda",
+              en: "Preparation of shipping documents for deliveries, creation of invoices for completed orders, processing of new orders, communication with customers and all internal departments within the company.",
+              de: "Erstellung von Versandpapieren für Lieferungen, Erstellung von Rechnungen für ausgeführte Aufträge, Entgegennahme und Bearbeitung neuer Bestellungen, Kommunikation mit Kunden und allen internen Abteilungen des Unternehmens."
+      },
+      azienda: "Conditorei-Bäckerei Fleischli AG",
+      luogo: "Bahnhofstrasse 1, 8172 Niederglatt"
+    },
+    {
+      titolo: {
               it: "logistica e spedizione pane",
               en: "logistics and bread shipping",
               de: "Spedition Mitarbeiter"
       },
       da: "19.05.2025",
-      a: "...",
+      a: "30.09.2026",
       descrizione: {
               it: "Smistamento pane per spedizioni, logistica, autista, gestione magazzino, ordine e gestione prodotti congelati",
               en: "Bread sorting for shipments, logistics, driver, warehouse management, ordering and frozen product management",
